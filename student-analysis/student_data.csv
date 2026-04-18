@@ -1,0 +1,17 @@
+# 🎓 Student Performance Analysis
+
+## 🎯 Objective
+Analyze how study hours and attendance affect student performance.
+
+## 🛠 Tools Used
+- Python (Pandas)
+- Excel
+
+## 📈 Key Insights
+- Students with higher study hours score better
+- Attendance above 85% leads to higher marks
+- Female students show slightly better average performance
+- Low study hours (<2) results in poor scores
+
+## 📌 Conclusion
+Improving study hours and attendance can significantly boost student performance.
