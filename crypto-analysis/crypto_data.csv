@@ -1,0 +1,17 @@
+# 📊 Crypto Market Trends Analysis
+
+## 🎯 Objective
+Analyze cryptocurrency price trends and market behavior.
+
+## 🛠 Tools Used
+- Python (Pandas, Matplotlib)
+- Excel
+
+## 📈 Key Insights
+- Bitcoin shows an overall upward trend
+- Ethereum follows similar pattern but lower volatility
+- Market cap increases with price rise
+- Volume spikes indicate high trading activity
+
+## 📌 Conclusion
+Crypto market is highly volatile but shows growth trend. Investors should monitor volume spikes before investing.
